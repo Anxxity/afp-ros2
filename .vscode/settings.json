@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/remin/Desktop/ros2_assignment-afp/afp-ros2/install/hello_world/lib/python3.10/site-packages",
+        "/home/remin/Desktop/exp-2-ros/install/timerfr/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/remin/Desktop/ros2_assignment-afp/afp-ros2/install/hello_world/lib/python3.10/site-packages",
+        "/home/remin/Desktop/exp-2-ros/install/timerfr/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
