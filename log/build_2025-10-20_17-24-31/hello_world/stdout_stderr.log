@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/hello_world/hello_world.egg-info/PKG-INFO
+writing dependency_links to ../../build/hello_world/hello_world.egg-info/dependency_links.txt
+writing entry points to ../../build/hello_world/hello_world.egg-info/entry_points.txt
+writing requirements to ../../build/hello_world/hello_world.egg-info/requires.txt
+writing top-level names to ../../build/hello_world/hello_world.egg-info/top_level.txt
+reading manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+writing manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+running build
+running build_py
+copying hello_world/sub.py -> /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build/lib/hello_world
+copying hello_world/pub.py -> /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build/lib/hello_world
+running install
+running install_lib
+copying /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build/lib/hello_world/sub.py -> /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world
+copying /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build/lib/hello_world/pub.py -> /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world
+byte-compiling /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world/sub.py to sub.cpython-310.pyc
+byte-compiling /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world/pub.py to pub.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/hello_world/hello_world.egg-info to /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pulisher script to /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/hello_world
+Installing subscriber script to /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/hello_world
+writing list of installed files to '/home/remin/Desktop/ros2_assignment-afp/build/hello_world/install.log'

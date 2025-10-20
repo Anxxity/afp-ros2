@@ -1,0 +1,26 @@
+[0.574s] Invoking command in '/home/remin/Desktop/exp-5-ros/src/hello_world': PYTHONPATH=/home/remin/Desktop/exp-5-ros/build/hello_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hello_world build --build-base /home/remin/Desktop/exp-5-ros/build/hello_world/build install --record /home/remin/Desktop/exp-5-ros/build/hello_world/install.log --single-version-externally-managed install_data
+[0.685s] running egg_info
+[0.685s] writing ../../build/hello_world/hello_world.egg-info/PKG-INFO
+[0.702s] writing dependency_links to ../../build/hello_world/hello_world.egg-info/dependency_links.txt
+[0.925s] writing entry points to ../../build/hello_world/hello_world.egg-info/entry_points.txt
+[0.926s] writing requirements to ../../build/hello_world/hello_world.egg-info/requires.txt
+[1.013s] writing top-level names to ../../build/hello_world/hello_world.egg-info/top_level.txt
+[1.017s] reading manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+[1.019s] writing manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+[1.019s] running build
+[1.019s] running build_py
+[1.019s] copying hello_world/bye_world.py -> /home/remin/Desktop/exp-5-ros/build/hello_world/build/lib/hello_world
+[1.020s] running install
+[1.020s] running install_lib
+[1.021s] copying /home/remin/Desktop/exp-5-ros/build/hello_world/build/lib/hello_world/bye_world.py -> /home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages/hello_world
+[1.022s] byte-compiling /home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages/hello_world/bye_world.py to bye_world.cpython-310.pyc
+[1.024s] running install_data
+[1.024s] running install_egg_info
+[1.026s] removing '/home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages/hello_world-0.0.0-py3.10.egg-info' (and everything under it)
+[1.027s] Copying ../../build/hello_world/hello_world.egg-info to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages/hello_world-0.0.0-py3.10.egg-info
+[1.028s] running install_scripts
+[1.042s] Installing bye_world script to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/hello_world
+[1.049s] Installing bye_worldrecive script to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/hello_world
+[1.050s] Installing hello_world script to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/hello_world
+[1.051s] writing list of installed files to '/home/remin/Desktop/exp-5-ros/build/hello_world/install.log'
+[1.101s] Invoked command in '/home/remin/Desktop/exp-5-ros/src/hello_world' returned '0': PYTHONPATH=/home/remin/Desktop/exp-5-ros/build/hello_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hello_world build --build-base /home/remin/Desktop/exp-5-ros/build/hello_world/build install --record /home/remin/Desktop/exp-5-ros/build/hello_world/install.log --single-version-externally-managed install_data

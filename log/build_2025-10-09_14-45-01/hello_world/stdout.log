@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/hello_world/hello_world.egg-info/PKG-INFO
+writing dependency_links to ../../build/hello_world/hello_world.egg-info/dependency_links.txt
+writing entry points to ../../build/hello_world/hello_world.egg-info/entry_points.txt
+writing requirements to ../../build/hello_world/hello_world.egg-info/requires.txt
+writing top-level names to ../../build/hello_world/hello_world.egg-info/top_level.txt
+reading manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+writing manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+running build
+running build_py
+copying hello_world/bye_worldrecive.py -> /home/remin/Desktop/exp-5-ros/build/hello_world/build/lib/hello_world
+running install
+running install_lib
+copying /home/remin/Desktop/exp-5-ros/build/hello_world/build/lib/hello_world/bye_worldrecive.py -> /home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages/hello_world
+byte-compiling /home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages/hello_world/bye_worldrecive.py to bye_worldrecive.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages/hello_world-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/hello_world/hello_world.egg-info to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/python3.10/site-packages/hello_world-0.0.0-py3.10.egg-info
+running install_scripts
+Installing bye_vouwals script to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/hello_world
+Installing bye_world script to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/hello_world
+Installing bye_worldrecive script to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/hello_world
+Installing hello_world script to /home/remin/Desktop/exp-5-ros/install/hello_world/lib/hello_world
+writing list of installed files to '/home/remin/Desktop/exp-5-ros/build/hello_world/install.log'

@@ -1,0 +1,28 @@
+[2.542s] Invoking command in '/home/remin/Desktop/ros2_assignment-afp/src/hello_world': PYTHONPATH=/home/remin/Desktop/ros2_assignment-afp/build/hello_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hello_world build --build-base /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build install --record /home/remin/Desktop/ros2_assignment-afp/build/hello_world/install.log --single-version-externally-managed install_data
+[2.651s] running egg_info
+[2.651s] writing ../../build/hello_world/hello_world.egg-info/PKG-INFO
+[2.696s] writing dependency_links to ../../build/hello_world/hello_world.egg-info/dependency_links.txt
+[2.696s] writing entry points to ../../build/hello_world/hello_world.egg-info/entry_points.txt
+[2.777s] writing requirements to ../../build/hello_world/hello_world.egg-info/requires.txt
+[2.778s] writing top-level names to ../../build/hello_world/hello_world.egg-info/top_level.txt
+[2.779s] reading manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+[2.779s] writing manifest file '../../build/hello_world/hello_world.egg-info/SOURCES.txt'
+[2.832s] running build
+[2.832s] running build_py
+[2.832s] copying hello_world/sub.py -> /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build/lib/hello_world
+[2.833s] copying hello_world/pub.py -> /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build/lib/hello_world
+[2.833s] running install
+[2.833s] running install_lib
+[2.833s] copying /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build/lib/hello_world/sub.py -> /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world
+[2.833s] copying /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build/lib/hello_world/pub.py -> /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world
+[2.834s] byte-compiling /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world/sub.py to sub.cpython-310.pyc
+[2.834s] byte-compiling /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world/pub.py to pub.cpython-310.pyc
+[2.835s] running install_data
+[2.835s] running install_egg_info
+[2.836s] removing '/home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world-0.0.0-py3.10.egg-info' (and everything under it)
+[2.836s] Copying ../../build/hello_world/hello_world.egg-info to /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages/hello_world-0.0.0-py3.10.egg-info
+[2.837s] running install_scripts
+[2.849s] Installing pulisher script to /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/hello_world
+[2.849s] Installing subscriber script to /home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/hello_world
+[2.849s] writing list of installed files to '/home/remin/Desktop/ros2_assignment-afp/build/hello_world/install.log'
+[2.910s] Invoked command in '/home/remin/Desktop/ros2_assignment-afp/src/hello_world' returned '0': PYTHONPATH=/home/remin/Desktop/ros2_assignment-afp/build/hello_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/remin/Desktop/ros2_assignment-afp/install/hello_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/hello_world build --build-base /home/remin/Desktop/ros2_assignment-afp/build/hello_world/build install --record /home/remin/Desktop/ros2_assignment-afp/build/hello_world/install.log --single-version-externally-managed install_data

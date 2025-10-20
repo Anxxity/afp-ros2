@@ -1,0 +1,4 @@
+[console_scripts]
+pulisher = hello_world.pub:main
+subscriber = hello_world.sub:main
+
